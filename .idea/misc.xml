@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyProjects/Github/SmartPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1361111111111111" />
+        <entry key="..\:/MyProjects/Github/SmartPlayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1361111111111111" />
+        <entry key="..\:/MyProjects/Github/SmartPlayer/app/src/main/res/layout/activity_launcher.xml" value="0.1609375" />
+        <entry key="..\:/MyProjects/Github/SmartPlayer/app/src/main/res/layout/activity_main.xml" value="0.1609375" />
+        <entry key="..\:/MyProjects/Github/SmartPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1361111111111111" />
+        <entry key="..\:/MyProjects/Github/SmartPlayer/smart-player/src/main/res/layout/smart_player.xml" value="0.1609375" />
+        <entry key="..\:/MyProjects/Github/SmartPlayer/smart-player/src/main/res/layout/smart_player_controller_view.xml" value="0.1" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/app/src/main/res/layout/activity_launcher.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/bg_oval_transparent_black.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/bg_selection_highlight.xml" value="0.31203703703703706" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/circular_progress_indicator.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/ic_brightness.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/ic_brightness_low.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/ic_brightness_medium.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/ic_volume.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/ic_volume_down.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/ic_volume_mute.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/ic_volume_off.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/drawable/video_track_selection_view.xml" value="0.31203703703703706" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/layout/smart_player.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/layout/smart_player_controller_view.xml" value="0.259375" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/layout/video_track_selection_item_view.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/anand/AndroidStudioProjects/SmartPlayer/smart-player/src/main/res/layout/video_track_selection_view.xml" value="0.3723958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
